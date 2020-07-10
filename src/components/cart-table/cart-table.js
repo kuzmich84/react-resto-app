@@ -1,6 +1,8 @@
 import React from 'react';
 import './cart-table.scss';
 
+
+
 const CartTable = () => {
     return (
         <>
